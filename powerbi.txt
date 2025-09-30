@@ -4,7 +4,7 @@ POWER BI
 - we will add the data and transform : as load will only get the data 
 - we will then have the add column section where we have the column level options to manipulate
 
-#DESIGNING
+# DESIGNING
 - later we can go in the data view for the transformed data manipulation
 - we have the model view to link multiple data sets 
 - report view will have the UI area where we can make the dashboard by inserting shapes as excel
@@ -12,3 +12,8 @@ POWER BI
 - adding cards is simple , we can copy and paste using the keyboard shortcuts , same goes with multiple selection 
 - on the field list we have the FORMAT VISUAL that can help us get the correct format / data options like formats
 - for the months in the graphs , it will show the unordered labels as power bi don't know the actual numbering , so we need to sort it ( data view )
+- right click and analyze , it will give the ai reasoning for the same
+
+# SHARING
+- for the web > save , publish , link for the web , there will be share button option
+- 
